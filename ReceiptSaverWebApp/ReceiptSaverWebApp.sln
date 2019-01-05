@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptSaverWebApp", "ReceiptSaverWebApp\ReceiptSaverWebApp.csproj", "{568CA588-2FA5-443C-BF2F-02A082E5986E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptSaverWebApp.Tests", "ReceiptSaverWebApp.Tests\ReceiptSaverWebApp.Tests.csproj", "{C1D6B501-3196-45D7-8E1E-B4047D7CB923}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{568CA588-2FA5-443C-BF2F-02A082E5986E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568CA588-2FA5-443C-BF2F-02A082E5986E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568CA588-2FA5-443C-BF2F-02A082E5986E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568CA588-2FA5-443C-BF2F-02A082E5986E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1D6B501-3196-45D7-8E1E-B4047D7CB923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D6B501-3196-45D7-8E1E-B4047D7CB923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1D6B501-3196-45D7-8E1E-B4047D7CB923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1D6B501-3196-45D7-8E1E-B4047D7CB923}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA42FEA1-D2ED-4213-95DA-D9D366835A7B}
+	EndGlobalSection
+EndGlobal
